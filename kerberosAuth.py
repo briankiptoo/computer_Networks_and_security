@@ -1,3 +1,5 @@
+#python implementation of authentication using kerberos.
+#code by Brian
 import requests
 import sys
 sys.path.insert(0, '../lib')

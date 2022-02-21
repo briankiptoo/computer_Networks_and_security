@@ -1,4 +1,7 @@
 #Simple Python RSA for digital signature with hashing implementation. For hashing SHA-256 from hashlib library is used.
+#This is an open source code.
+#Feel free to improve the code or share any issues you may encounter when running the code.
+
 
 import random
 from hashlib import sha256
